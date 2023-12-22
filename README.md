@@ -135,6 +135,7 @@ The default case is executed when none of the cases match the expression. This i
 
 
 Sources:
+
 https://www.geeksforgeeks.org/short-circuiting-in-c-and-linux/
 
 https://en.wikipedia.org/wiki/Dangling_else#:~:text=The%20dangling%20else%20is%20a,than%20one%20correct%20parse%20tree.
